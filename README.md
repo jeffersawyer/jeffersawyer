@@ -35,7 +35,7 @@ GitHub: jeffersawyer
 Разработка интерфейсов: WPF, Windows Forms
 
 Другие навыки: Git, SQL, ООП, алгоритмы и структуры данных
-![api](https://github.com/user-attachments/assets/cb06b01a-e6ee-4fae-8ac2-a3f2a8f7f986)
+
 
 Инструменты: Visual Studio, JetBrains Rider, PyCharm
 
@@ -46,7 +46,7 @@ GitHub: jeffersawyer
 
 Небольшие игры или графические проекты на C++.
 
-📊 Статистика GitHub:![Uploading api.svg…]()
+📊 Статистика GitHub: ![api](https://github.com/user-attachments/assets/cb06b01a-e6ee-4fae-8ac2-a3f2a8f7f986)
 
 💡 Вдохновляющая цитата:
 "Код — это поэзия, которая оживает." – Анонимный программист
